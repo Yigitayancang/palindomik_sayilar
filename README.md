@@ -1,0 +1,1 @@
+# palindomik_sayilar
